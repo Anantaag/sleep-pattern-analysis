@@ -1,4 +1,4 @@
-# sleep-pattern-analysis
+
 # Sleep Pattern Analysis using Time Series Forecasting
 
 A data science project focused on analyzing and forecasting sleep behavior using time series techniques.
